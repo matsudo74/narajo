@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: #f7f7f7
+}
+
+.bg-color-white{
+  background-color: white;
+}
+
+.bg-color-pink{
+  background-color:pink;
+}
+
+.bg-color-pink{
+  background-color:gray;
+}
+
+.tac{
+  text-align: center;
+}
+
+.title{
+  font-size: large;
+}
+

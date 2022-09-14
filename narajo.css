@@ -1,0 +1,101 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: middle;
+    margin-left: 0;
+    margin-top: 0;
+}
+
+.mainimage img {
+    width: 100%;
+    margin: 73px 0 0 0;
+}
+
+.courses{
+    width: 86%;
+    margin: 0 4% 2em 4%;
+    padding: 3%;
+    background-color: #f6f6f5;
+    color: #353535;
+}
+
+.course_literature {
+    border-bottom: #ff8948 solid 3px;
+}
+
+.literature img {
+    width: 100%;
+    margin: 0 0 0.5em 0;
+}
+
+.course_science {
+    border-bottom: #48b4ff solid 3px;
+}
+
+.science img {
+    width: 100%;
+    margin: 0 0 0.5em 0;
+}
+
+.course_environment {
+    border-bottom: #14c79f solid 3px;
+}
+
+.environment img {
+    width: 100%;
+    margin: 0 0 0.5em 0;
+}
+
+.course_graduate {
+    border-bottom: #f85151 solid 3px;
+}
+
+.graduate img {
+    width: 100%;
+    margin: 0 0 0.5em 0;
+}
+
+.course_others{
+    border-bottom: #ffce5a solid 3px;
+}
+
+.others img {
+    width: 100%;
+    margin: 0 0 0.5em 0;
+}
+
+.footer_logo img{
+  width:100%;
+}
+
+.footer_logo{
+  width:40%;
+  margin:0 0 1em 0;
+}
+
+.address{
+  width:100%;
+  margin:10px 0;
+}
+
+.nav{
+  margin: 0 0 2em 0;
+  border-top: #d3d3d3 dotted 1px;
+}
+
+.nav li{
+  width:100%;
+  height:70px;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 15px;
+  border-bottom: #d3d3d3 dotted 1px;
+}
